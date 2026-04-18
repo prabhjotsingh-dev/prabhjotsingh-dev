@@ -1,81 +1,47 @@
-# Prabhjot Singh
-
-**Full-Stack Developer** | **MERN Stack Enthusiast** | **Open Source Contributor**
-
-I'm a passionate software developer with a strong foundation in modern web technologies. I specialize in building scalable, high-performance applications using the MERN stack (MongoDB, Express.js, React, Node.js) and am always eager to explore new technologies and challenges.
-
 ## 🚀 Quick Info
 
-- 📍 **Location**: [Your Location]
-- 📧 **Email**: [Your Email]
-- 🔗 **LinkedIn**: [Your LinkedIn Profile]
-- 💼 **Portfolio**: [Your Portfolio Website]
-- 🎓 **Education**: [Your Degree/Field of Study]
+- 📧 **Email**: [prabhs9302@gmail.com](mailto:prabhs9302@gmail.com)
+- 🔗 **GitHub**: [@prabhjotsingh-dev](https://github.com/prabhjotsingh-dev)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhjotsingh-dev&show_icons=true&theme=radical" alt="Prabhjot's GitHub stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhjotsingh-dev&layout=compact&theme=radical" alt="Top Langs" height="192px" />
+</div>
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- **React.js** • **Next.js** • **JavaScript (ES6+)** • **TypeScript**
-- HTML5 • CSS3 • Tailwind CSS • Material-UI • Redux
+### Frontend & UI
+- **JavaScript (ES6+)** • **TypeScript** • **React.js** • **Next.js**
+- HTML5 • CSS3 • Tailwind CSS • Shadcn UI
 
-### Backend
-- **Node.js** • **Express.js** • **RESTful APIs** • **GraphQL**
-- NestJS • Python (Flask/Django) • Java (Spring Boot)
-
-### Databases
-- **MongoDB** • **PostgreSQL** • **MySQL** • **Firebase**
-- Redis • MongoDB Atlas • Supabase
+### Backend & Databases
+- **Python** • **Flask** • **Node.js**
+- **MongoDB** • **Appwrite**
 
 ### Tools & Platforms
-- **Git** • **GitHub** • **Docker** • **AWS** • **Vercel**
-- Postman • VS Code • Figma • Jira
+- **Git** • **GitHub**
 
 ## 🌟 Projects
 
-### [Project Name 1]
-**[Brief Description]**
-- Built a [type of application] using [key technologies]
-- Implemented [notable features]
-- [Link to Live Demo] | [Link to GitHub]
+### [Coding School App](https://github.com/prabhjotsingh-dev/codingschool)
+- Built with Tailwind CSS, Shadcn UI, MongoDB, and Python.
+- Interactive platform for coding education and exploration.
 
-### [Project Name 2]
-**[Brief Description]**
-- Developed a [type of application] with [key technologies]
-- Features: [feature 1], [feature 2], [feature 3]
-- [Link to Live Demo] | [Link to GitHub]
+### [Punjabi Typing App](https://github.com/prabhjotsingh-dev/typingpunjabi)
+- A specialized utility built for typing in Punjabi.
+- Simplifies typing experience with a clean and accessible user interface.
 
-### [Project Name 3]
-**[Brief Description]**
-- Created a [type of application] using [key technologies]
-- Key achievements: [achievement 1], [achievement 2]
-- [Link to Live Demo] | [Link to GitHub]
+### [Movie App](https://github.com/prabhjotsingh-dev/movies)
+- Interactive application for movie exploration and discovery.
+- Features modern design and responsive layouts.
 
-## 📚 Learning & Growth
+### [Weather App](https://github.com/prabhjotsingh-dev/weatherapp)
+- Real-time weather tracking application.
+- Fetches and displays accurate weather data with an intuitive UI.
 
-I'm committed to continuous learning and skill development. Here's what I'm currently exploring:
-
-- [Current Learning Area 1 - e.g., Machine Learning]
-- [Current Learning Area 2 - e.g., Cloud Computing]
-- [Current Learning Area 3 - e.g., Advanced React Patterns]
-
-## 🤝 Let's Connect
-
-I'm always open to new opportunities, collaborations, and interesting conversations. Feel free to reach out!
-
-- 📧 **Email**: [Your Email]
-- 🔗 **LinkedIn**: [Your LinkedIn Profile]
-- 🐦 **Twitter**: [Your Twitter Handle]
-- 💬 **Discord**: [Your Discord Tag]
-
-## 🚀 Quick Actions
-
-- 🌟 Star this repository if you find it interesting
-- 🤝 Connect with me on LinkedIn
-- 📂 Check out my portfolio for more projects
-- 💬 Send me a message with any questions or collaboration ideas
-
----
+### [Full App with Backend](https://github.com/prabhjotsingh-dev/fullappwithbackend)
+- Full-stack application built using TypeScript.
 
 *"The best way to predict the future is to create it."*
-
-Made with ❤️ by Prabhjot Singh
